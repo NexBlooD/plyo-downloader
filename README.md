@@ -385,10 +385,8 @@ Várias estratégias para maximizar a velocidade:
 
 ### 📞 Contatos Oficiais
 
-🌐 **Website**: [www.plyo-downloader.com](https://www.plyo-downloader.com)  
 💬 **Discord**: [Servidor Oficial](https://discord.gg/seu-convite-aqui)  
-📧 **Email**: suporte@plyo-downloader.com  
-📱 **Telegram**: [@PlyoDownloader](https://t.me/PlyoDownloader)
+📧 **Email**: suporte@plyo-downloader.com
 
 ---
 
