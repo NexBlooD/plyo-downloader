@@ -70,7 +70,7 @@
 ### 🚀 **Passo a Passo Completo**
 
 #### **1️⃣ Entre no Discord Oficial**
-1. **Clique no link de convite**: [Discord Oficial do Plyo](https://discord.gg/seu-convite-aqui)
+1. **Clique no link de convite**: [Discord Oficial do Plyo]([https://discord.gg/seu-convite-aqui](https://discord.com/channels/1391580427289890979/1391593928473579571))
 2. **Aceite o convite** e siga as regras do servidor
 3. **Verifique sua conta** se solicitado
 4. **Navegue até o canal** `#adquirir-licenca`
